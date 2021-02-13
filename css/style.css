@@ -67,3 +67,7 @@ h4 {
 img {
   border:solid;
 }
+
+title {
+  background: linear-gradient(to right, #FFF, #000)
+}
